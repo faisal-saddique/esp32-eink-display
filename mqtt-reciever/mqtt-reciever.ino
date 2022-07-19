@@ -11,7 +11,7 @@ String topic_chunks = "faisal";
 String topic_array_size = "array-size";
 String topic_finished = "finished";
 
-//unsigned char *gImage_4in01f = NULL;
+//unsigned char *gImage_4in01f = NULL;  
 
 WiFiClient espClient;
 PubSubClient client(espClient);
